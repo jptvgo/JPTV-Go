@@ -17,7 +17,7 @@ This project provides a publicly available M3U playlist that contains stream URL
 ## 📥 How to Use
 
 1. **Download the playlist**:  
-   Grab the latest version of the `jp.m3u` file from this repository.
+   Grab the latest version of the `japan.m3u` file from this repository.
 
 2. **Open in your preferred IPTV player**:  
    Load the file using an IPTV-compatible player like:
